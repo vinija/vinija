@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Vinija Jain
-- 💼 ☁️ I work as a Cloud AI Engineer
+- 💼 ☁️ I work at Oracle
 - 📚 💻 I'm also pursuing the Artificial Intelligence program at Stanford
 - 📓 💞 And have a specialization in NLP
 - 📫 https://www.linkedin.com/in/vinija/
